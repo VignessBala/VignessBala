@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @VignessBala
-- 👀 I’m interested in ... React Native &Flutter
-- 🌱 I’m currently learning ...ReactNative &JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...balavigness007@gmail.com
+- 👋 Hi, I’m Bala Vigness
+- 👀 I’m interested in ... React Native & Flutter
+- 🌱 I’m currently learning ... NAtive android and IOS
+- 📫 Reach me in ...balavigness007@gmail.com
 
 <!---
 VignessBala/VignessBala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
